@@ -75,19 +75,24 @@ The dashboard focuses on the following analytical areas:
 - **Revenue & Profitability Trends:** Examines monthly and yearly changes in revenue and profit performance.
 - **Expense Analysis:** Identifies major expense categories and their contributions to overall operating costs.
 - **Branch & Department Performance:** Evaluates financial performance and cost efficiency across different business units.
-![Data Model](Images/ExecutiveDashboard.png)
-Executive Dashboard
+![Data Model](Images/OverviewDashboard.png) 
+
+Executive Financial Overview
 ___
 ![Data Model](Images/Profit&Loss.png)
-   Profit and Loss Analysis
+
+Profit and Loss Analysis
 ___
-![Data Model](Images/RevenueMoM&YoY.png)
-   Revenue and Profitability Trends ( MoM and YoY Analysis)
+![Data Model](Images/RevenueMoM&YoY.png) 
+
+Revenue and Profitability Trends ( MoM and YoY Analysis)
 ___
 ![Data Model](Images/ExecutiveDashboard.png))
+
 Expense Analysis
 ___
 ![Data Model](Images/Branch&DepartmentEfficiency.png)
+
 Branch and Department Performance
 ___
 ## Business Recommendations & Conclusion
@@ -134,8 +139,6 @@ FinSight-Financial-Analytics/
 **Role:** Financial Data Analyst | Power BI Developer
 
 **Connect with me:**
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-- **Email:** [Your Professional Email](mailto:miklospelumi@gmail.com)
+- **Email:** miklospelumi@gmail.com
 
 For questions, collaborations, or professional opportunities related to this project, feel free to connect with me.
