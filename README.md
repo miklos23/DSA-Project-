@@ -72,4 +72,17 @@ The dashboard focuses on the following analytical areas:
 - **Revenue & Profitability Trends:** Examines monthly and yearly changes in revenue and profit performance.
 - **Expense Analysis:** Identifies major expense categories and their contributions to overall operating costs.
 - **Branch & Department Performance:** Evaluates financial performance and cost efficiency across different business units.
-
+![Data Model](Images/ExecutiveDashboard.png)
+Executive Dashboard
+___
+![Data Model](Images/Profit&Loss.png)
+Profit and Loss Analysis
+___
+![Data Model](Images/RevenueMoM&YoY.png)
+Revenue and Profitability Trends
+___
+![Data Model](Images/BranchEfficiency.png)
+Branch Efficiency
+___
+![Data Model](Images/Branch&DepartmentEfficiency.png)
+Branch and Department Performance
