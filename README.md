@@ -50,4 +50,4 @@ The model consists of a central fact table, FactFinancialTransactions, connected
 - **DimDepartment:** Contains departmental information for cost attribution.
 - **DimBranch:** Provides geographical and branch-level information.
 - **DimCostCentre:** Classifies operational and administrative cost centres.
-- 
+![Data Model](images/Datamodel.png)
