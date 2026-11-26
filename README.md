@@ -51,6 +51,7 @@ The model consists of a central fact table, FactFinancialTransactions, connected
 - **DimBranch:** Provides geographical and branch-level information.
 - **DimCostCentre:** Classifies operational and administrative cost centres.
 ![Data Model](Images/DataModel.png)
+Data Model using Star-schema  connecting financial transactions with account, department, branch, cost-centre, and date dimensions.
 ## Financial Analysis & DAX Measures
 
 DAX (Data Analysis Expressions) is used to develop financial measures and calculations that support dynamic reporting and performance evaluation.
@@ -64,7 +65,9 @@ Key financial metrics include:
 - **Gross Profit Margin:** Measures gross profitability relative to revenue.
 - **Net Profit Margin:** Evaluates the percentage of revenue retained as profit before tax.
 - **YoY & MoM Analysis:** Tracks financial performance across yearly and monthly periods.
+  
 ## Dashboard Development & Visualization
+
 An interactive financial dashboard is developed in Power BI to provide a comprehensive view of the company's financial performance.
 The dashboard focuses on the following analytical areas:
 - **Executive Financial Overview:** Presents key financial indicators, including revenue, gross profit, operating expenses, and net profit before tax.
@@ -76,13 +79,63 @@ The dashboard focuses on the following analytical areas:
 Executive Dashboard
 ___
 ![Data Model](Images/Profit&Loss.png)
-Profit and Loss Analysis
+   Profit and Loss Analysis
 ___
 ![Data Model](Images/RevenueMoM&YoY.png)
-Revenue and Profitability Trends
+   Revenue and Profitability Trends ( MoM and YoY Analysis)
 ___
-![Data Model](Images/BranchEfficiency.png)
-Branch Efficiency
+![Data Model](Images/ExecutiveDashboard.png))
+Expense Analysis
 ___
 ![Data Model](Images/Branch&DepartmentEfficiency.png)
 Branch and Department Performance
+___
+## Business Recommendations & Conclusion
+- **Strengthen cost control:** Monitor operating expenses and identify areas of unnecessary spending.
+- **Improve profitability:** Evaluate cost drivers affecting profit margins and take corrective action.
+- **Enhance financial monitoring:** Use interactive Power BI reports to track revenue, expenses, and profitability regularly.
+- **Support informed decisions:** Use branch and departmental performance reports to guide resource allocation and operational improvements.
+
+**Conclusion:** FinSight Financial Analytics provides an interactive approach to financial reporting, helping management investigate the gap between revenue growth and profitability while improving cost visibility and financial decision-making.
+## Project Structure
+
+```text
+FinSight-Financial-Analytics/
+│
+├── Dataset/
+│   └── FinSight_Financial_Analytics_Project.xlsx
+│
+├── PowerBI/
+│   └── FinSight_Financial_Analytics.pbix
+│
+├── images/
+│   ├── datamodel.png
+│   ├── executive_dashboard.png
+│   ├── profit_loss.png
+│   ├── revenue_analysis.png
+│   ├── expense_analysis.png
+│   └── branch_performance.png
+│
+├── Documentation/
+│   └── DAX_Measures.md
+│
+└── README.md
+```
+### Repository Contents
+
+- **Dataset:** Contains the source financial dataset.
+- **PowerBI:** Stores the Power BI report file.
+- **images:** Contains the data model and dashboard screenshots.
+- **Documentation:** Contains supporting project documentation and DAX measures.
+- **README.md:** Provides an overview of the project, methodology, and key findings.
+  ## Author & Contact
+
+**Author:** [Ayanleye Pelumi.M]  
+**Role:** Financial Data Analyst | Power BI Developer
+
+**Connect with me:**
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** [Your Professional Email](mailto:miklospelumi@gmail.com)
+
+For questions, collaborations, or professional opportunities related to this project, feel free to connect with me.
