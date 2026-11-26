@@ -50,4 +50,26 @@ The model consists of a central fact table, FactFinancialTransactions, connected
 - **DimDepartment:** Contains departmental information for cost attribution.
 - **DimBranch:** Provides geographical and branch-level information.
 - **DimCostCentre:** Classifies operational and administrative cost centres.
-![Data Model](images/Datamodel.png)
+![Data Model](Images/DataModel.png)
+## Financial Analysis & DAX Measures
+
+DAX (Data Analysis Expressions) is used to develop financial measures and calculations that support dynamic reporting and performance evaluation.
+Key financial metrics include:
+
+- **Total Revenue:** Measures income generated from business operations.
+- **Cost of Sales (COGS):** Evaluates the direct costs associated with sales.
+- **Gross Profit:** Determines revenue remaining after deducting the cost of sales.
+- **Operating Expenses:** Tracks the costs incurred in running business operations.
+- **Net Profit Before Tax (NPBT):** Evaluates profitability before tax deductions.
+- **Gross Profit Margin:** Measures gross profitability relative to revenue.
+- **Net Profit Margin:** Evaluates the percentage of revenue retained as profit before tax.
+- **YoY & MoM Analysis:** Tracks financial performance across yearly and monthly periods.
+## Dashboard Development & Visualization
+An interactive financial dashboard is developed in Power BI to provide a comprehensive view of the company's financial performance.
+The dashboard focuses on the following analytical areas:
+- **Executive Financial Overview:** Presents key financial indicators, including revenue, gross profit, operating expenses, and net profit before tax.
+- **Profit & Loss Analysis:** Provides a structured breakdown of revenue, cost of sales, operating expenses, and profitability.
+- **Revenue & Profitability Trends:** Examines monthly and yearly changes in revenue and profit performance.
+- **Expense Analysis:** Identifies major expense categories and their contributions to overall operating costs.
+- **Branch & Department Performance:** Evaluates financial performance and cost efficiency across different business units.
+
